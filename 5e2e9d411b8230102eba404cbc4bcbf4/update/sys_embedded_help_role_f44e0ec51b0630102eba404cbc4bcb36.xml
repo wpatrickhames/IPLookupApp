@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_75105_ip_lookup.ipaddressinfo_user" name="x_75105_ip_lookup.ipaddressinfo_user">7c4e0ec51b0630102eba404cbc4bcb31</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>patrick.hames</sys_created_by>
+        <sys_created_on>2021-08-16 22:32:58</sys_created_on>
+        <sys_id>f44e0ec51b0630102eba404cbc4bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7c4e0ec51b0630102eba404cbc4bcb31</sys_name>
+        <sys_package display_value="IP Lookup" source="x_75105_ip_lookup">5e2e9d411b8230102eba404cbc4bcbf4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Lookup">5e2e9d411b8230102eba404cbc4bcbf4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f44e0ec51b0630102eba404cbc4bcb36</sys_update_name>
+        <sys_updated_by>patrick.hames</sys_updated_by>
+        <sys_updated_on>2021-08-16 22:32:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
